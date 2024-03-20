@@ -2,6 +2,10 @@
 
 Hosting Link: TODO[]
 
+# Webpage_Name
+
+The Plug - Referencing the plugs for the pilots in NGE, a anime where model kits are made of the mechs for that. Also, plug is slang for the hookup for a product you are looking for so it is double meaning.
+
 ## User Stories
 
 User Types:
@@ -31,3 +35,8 @@ SO THAT I can challenge myself, refine my skills, and to personalize my kits wit
 ```
 
 ## Inspiration
+
+https://gundamplacestore.com/
+https://www.usagundamstore.com/
+https://newtype.us/
+
