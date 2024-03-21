@@ -2,4 +2,11 @@ body {
     background-color: rgb(32, 29, 48);
     /* color: rgb(153, 92, 208); */
     color: rgb(211,211,211);
+    font-family: 'Libre Bodoni 700';
+}
+
+.Buttons{
+    position: relative;
+    /* can be omitted for a regular non-lazy image */
+       max-width: 100%
 }
