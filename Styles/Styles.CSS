@@ -2,7 +2,7 @@ body {
     background-color: rgb(32, 29, 48);
     /* color: rgb(153, 92, 208); */
     color: rgb(211,211,211);
-    font-family: 'Libre Bodoni 700';
+    font-family: 'Nova Square';
 }
 
 .Buttons{
@@ -24,8 +24,15 @@ body {
 }
 
 .nav-link{
+    color: rgb(211,211,211);
+    font-family: 'Nova Square';
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+.nav-link:hoover{
     color: rgb(32, 29, 48);
-    font-family: 'Libre Bodoni 700';
+    font-family: 'Nova Square';
     font-size: 50px;
     margin-right: 20px;
 }
@@ -55,4 +62,10 @@ p{
 .logo{
     height: 100px;
     object-fit: cover;
+}
+
+.border{
+        border-image: 16 repeating-linear-gradient(45deg, rgb(85,73,183) 0, rgb(85,73,183) 1em, transparent 0, transparent 2em,
+                    rgb(85,73,183) 0, rgb(85,73,183) 3em, transparent 0, transparent 4em);
+        max-width: 100%;
 }
