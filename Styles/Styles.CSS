@@ -7,6 +7,52 @@ body {
 
 .Buttons{
     position: relative;
-    /* can be omitted for a regular non-lazy image */
-       max-width: 100%
+       max-width: 95%;
+       margin: 5px;
+       padding: 0;
+       
+}
+
+.Buttons:hover{
+    position: relative;
+       max-width: 100%;
+}
+
+.navbar{
+    background-color: rgb(85, 73, 183);
+    height: 125px;
+}
+
+.nav-link{
+    color: rgb(32, 29, 48);
+    font-family: 'Libre Bodoni 700';
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+h1{
+    text-align: center;
+    border: 3px solid green;
+    font-size: 100px;
+  }
+
+p{
+    text-align: center;
+    border: 3px solid green;
+    font-size: 25px;
+}
+
+.carousel{
+    width: 900px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.carousel-item{
+    height: 100%;
+}
+
+.logo{
+    height: 100px;
+    object-fit: cover;
 }
