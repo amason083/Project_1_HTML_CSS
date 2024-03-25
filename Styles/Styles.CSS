@@ -170,5 +170,56 @@ h3{
     width: 100%;
 }
 
+.main_border{
+    margin: 1em;
+    padding: 1em;
+    border: 16px solid transparent;
+    border-image: 16 repeating-linear-gradient(45deg, rgb(85,73,183) 0, rgb(85,73,183) 1em, transparent 0, transparent 2em,
+                    rgb(85,73,183) 0, rgb(85,73,183) 3em, transparent 0, transparent 4em);
+    font-size: 30px;
+                }
 
+.form-check{
+    font-size: 20px;
+}
 
+input[type=radio]{
+    transform:scale(1.5)
+}
+
+.News_Letter_Header{
+    margin: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.btn{
+    color: rgb(211,211,211);
+    font-size: 35px;
+    background-color: rgb(236,119,68);
+    border-color: rgb(236,119,68);
+}
+
+.btn:hover{
+    color: rgb(211,211,211);
+    font-size: 35px;
+    background-color:rgb(153,92,208);
+    border-color: rgb(153,92,208); 
+}
+
+.btn:active{
+    border-color: rgb(153,92,208);
+}
+
+.mb-3{
+    max-width:25%;
+}
+
+*:required{
+    background-color: rgb(142,223,95) ;
+}
+
+footer{
+    text-align: center;
+    font-size: 25px;
+}
