@@ -6,6 +6,10 @@ Hosting Link: TODO[]
 
 The Plug - Referencing the plugs for the pilots in NGE, a anime where model kits are made of the mechs for that. Also, plug is slang for the hookup for a product you are looking for so it is double meaning.
 
+# Purpose_Statement
+
+Purpose: This a community and e-commerce site for model-kit enthusiasts looking for a community to increase their skills. There is a e-commerce aspects as the community built drives sales. New model-kits will be put up for sale on the site and the news letter will inform the community on live builds for said model-kits. This is suppose to take advantage of the live-streaming market that has been on the rise to further build a community but also, drive sales.
+
 ## User Stories
 
 User Types:
