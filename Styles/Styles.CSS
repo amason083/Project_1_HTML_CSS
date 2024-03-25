@@ -102,13 +102,10 @@ h3{
     transform: translate(-50%, -50%);
   }
 
-.The_Plug_Product_Color{
-    margin: 25px;
-    background-color: rgb(153,92,208);        
-    height: auto;
-    width: auto;
-    border-radius: 25px;
-
+.Skill_Level{
+    margin-left: 25px;
+    font-size: 50px;
+    text-decoration: underline;
 }
 
 .The_Plug_Skill_Level_Border{
@@ -119,16 +116,59 @@ h3{
                     rgb(85,73,183) 0, rgb(85,73,183) 3em, transparent 0, transparent 4em);
 }
 
+.The_Plug_Skill_Level_Border_Even{
+    margin: 1em;
+    padding: 1em;
+    border: 16px solid transparent;
+    border-image: 16 repeating-linear-gradient(45deg, rgb(142,223,95) 0, rgb(142,223,95) 1em, transparent 0, transparent 2em,
+                    rgb(142,223,95) 0, rgb(142,223,95) 3em, transparent 0, transparent 4em);
+}
+
 .line_shop{
-    display: flex;
-    align-items: center;
+    position: relative;
+
+}
+
+.The_Plug_Product_Color{
+    margin-left: 3%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(153,92,208);
+    display: inline-block;
+}
+
+.The_Plug_Product_Color_Even{
+    margin-left: 3%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(236,119,68);        
+    display: inline-block;
+
 }
 
 .Product_Details{
     margin: 10px;
 }
 
-.Skill_Level{
-    margin-left: 25px;
-    font-size: 50px;
+.Product_Title{
+    font-size: 35px;
 }
+
+.Product_Type{
+    font-size: 30px;
+}
+
+.Product_Price{
+    font-size: 30px;
+}
+
+.image-edit{
+    width: 520px;
+}
+
+.image-edit img {
+    width: 100%;
+}
+
+
+
