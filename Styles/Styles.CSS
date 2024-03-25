@@ -94,7 +94,7 @@ h3{
 }
 
 .carousel-item h3 {
-    position: absolute;
+    position: relative;
     margin: 0;
     color: rgb(211,211,211);
     left: 50%;
@@ -222,4 +222,20 @@ input[type=radio]{
 footer{
     text-align: center;
     font-size: 25px;
+}
+
+.carousel-control-prev-icon  {
+    background-color: rgb(236,119,68);
+    width: 5vw;
+    height: 5vw;
+}
+.carousel-control-next-icon {
+    background-color: rgb(236,119,68);
+    width: 5vw;
+    height: 5vw;
+}
+.carousel-indicators li {
+    background-color: rgb(236,119,68);
+    width: 5vw;
+    height: 2vw;
 }
