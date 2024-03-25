@@ -10,6 +10,20 @@ The Plug - Referencing the plugs for the pilots in NGE, a anime where model kits
 
 Purpose: This a community and e-commerce site for model-kit enthusiasts looking for a community to increase their skills. There is a e-commerce aspects as the community built drives sales. New model-kits will be put up for sale on the site and the news letter will inform the community on live builds for said model-kits. This is suppose to take advantage of the live-streaming market that has been on the rise to further build a community but also, drive sales.
 
+# How To Use It
+
+Home Page: This the Home/Landing page where there will be a carousel and about section to give you a brief understanding of what the website hast to offer. Additional to those features, there is three images at the bottom that will take you directly to the parts of the shopping page that is relevant to your skill level. THe carousel will give you the opportunity to go to either the shop page or newsletter page. The navigation bar at the top will also allow you to navigate to the other pages.
+
+Shop Page: This will have a four column gride, broken out by the skill level. This will make it easy to customers to choose products they are comfortable in purchasing.
+
+News Letter Page: This will have a form for enthusiasts who are interested in getting up-to-date information from the site like when there will be a live stream build, skill-builder streams depending on skill levels, and when we drop new products.
+
+# Technologies Used
+
+HTML
+CSS
+Bootstrap
+
 ## User Stories
 
 User Types:
