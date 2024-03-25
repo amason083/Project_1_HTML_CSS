@@ -1,6 +1,6 @@
 # Model_Kit_Website
 
-Hosting Link: TODO[https://amason083.github.io/Project_1_HTML_CSS/Index.HTML]
+Hosting Link: TODO[https://amason083.github.io/Project_1_HTML_CSS/Index.html]
 
 # Webpage_Name
 
